@@ -6,7 +6,8 @@ Assignment 1
 ![Assignment 1_Part No  2](https://github.com/stnll/CSE_Laplace-InverseLaplace_MexE_3201_Group_13_2024/assets/157665975/5a42c32d-f395-407e-9ec3-b6b66c343f78)
 
 Assignment 2
-![Assignment 2_Answer No  2](https://github.com/stnll/CSE_Laplace-InverseLaplace_MexE_3201_Group_13_2024/assets/157665975/c90e4e78-5998-46bb-b32f-9a03d45d6cf4)![Assignment 2_Answer No  1 ](https://github.com/stnll/CSE_Laplace-InverseLaplace_MexE_3201_Group_13_2024/assets/157665975/78e779c5-b6c5-4203-a253-96a91a494b15)gnment 2_Answer No. 3.jpg…]()
+![Assignment 2_Answer No  1 ](https://github.com/stnll/CSE_Laplace-InverseLaplace_MexE_3201_Group_13_2024/assets/157665975/78e779c5-b6c5-4203-a253-96a91a494b15)
+![Assignment 2_Answer No  2](https://github.com/stnll/CSE_Laplace-InverseLaplace_MexE_3201_Group_13_2024/assets/157665975/c90e4e78-5998-46bb-b32f-9a03d45d6cf4)
 ![Assignment 2_Answer No  3](https://github.com/stnll/CSE_Laplace-InverseLaplace_MexE_3201_Group_13_2024/assets/157665975/c6e721a0-1a6c-4f27-8445-14e0f8c8ab0b)
 
 Group 13
